@@ -10,7 +10,7 @@ tags:
 ---
 
 *以前一说到文本处理大家直接会想到微软的Office系列，偶然了解到Markdown这种标记语言的存在，不同于Office系列动辄上几GB的体积,markdown作为一种语言的好处体现的淋漓尽致，没有复杂的各种按钮工具，甚至不需要特地安装什么软件，只需要记住常用的十几个标记拿记事本即可畅快码字。本文即是使用MarkDown写的，也是我的第一篇MarkDown文档。*
-#一、什么是MarkDown
+#  一、什么是MarkDown
 ![](https://tse2-mm.cn.bing.net/th?id=OIP.aTLBiY4FXrktf3Ag9fiFyQHaEj&w=299&h=183&c=7&o=5&dpr=1.25&pid=1.7)
 > Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
 
