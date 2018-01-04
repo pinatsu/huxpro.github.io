@@ -1,3 +1,13 @@
+ ---
+layout:     post
+title:      "MarkDown语法基础篇"
+date:       2018-01-4 17:06:00
+author:     "Hux"
+catalog: true
+tags:
+    - MarkDown
+    - 学习
+---
  # MarkDown语法基础篇
 
 *以前一说到文本处理大家直接会想到微软的Office系列，偶然了解到Markdown这种标记语言的存在，不同于Office系列动辄上几GB的体积,markdown作为一种语言的好处体现的淋漓尽致，没有复杂的各种按钮工具，甚至不需要特地安装什么软件，只需要记住常用的十几个标记拿记事本即可畅快码字。本文即是使用MarkDown写的，也是我的第一篇MarkDown文档。*
