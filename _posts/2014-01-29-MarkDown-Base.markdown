@@ -1,8 +1,8 @@
- ---
+---
 layout:     post
 title:      "MarkDown语法基础篇"
 date:       2018-01-4 17:06:00
-author:     "Hux"
+author:     "Pinattsu"
 catalog: true
 tags:
     - MarkDown
